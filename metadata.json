@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 Voting Console",
+  "description": "Simple role-based voting monitor, tally counter, and system reset console for ESP32 hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
